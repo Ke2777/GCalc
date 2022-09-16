@@ -1,0 +1,21 @@
+C:\Users\chike\source\repos\GCalc\GCalc\bin\Debug\GCalc.exe.config
+C:\Users\chike\source\repos\GCalc\GCalc\bin\Debug\GCalc.exe
+C:\Users\chike\source\repos\GCalc\GCalc\bin\Debug\GCalc.pdb
+C:\Users\chike\source\repos\GCalc\GCalc\obj\Debug\GCalc.csprojAssemblyReference.cache
+C:\Users\chike\source\repos\GCalc\GCalc\obj\Debug\GCalc.Form1.resources
+C:\Users\chike\source\repos\GCalc\GCalc\obj\Debug\GCalc.Properties.Resources.resources
+C:\Users\chike\source\repos\GCalc\GCalc\obj\Debug\GCalc.csproj.GenerateResource.cache
+C:\Users\chike\source\repos\GCalc\GCalc\obj\Debug\GCalc.csproj.CoreCompileInputs.cache
+C:\Users\chike\source\repos\GCalc\GCalc\obj\Debug\GCalc.exe
+C:\Users\chike\source\repos\GCalc\GCalc\obj\Debug\GCalc.pdb
+D:\Download\Google Drive\GCalc\GCalc\bin\Debug\GCalc.exe.config
+D:\Download\Google Drive\GCalc\GCalc\bin\Debug\GCalc.exe
+D:\Download\Google Drive\GCalc\GCalc\bin\Debug\GCalc.pdb
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.csproj.AssemblyReference.cache
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.csproj.SuggestedBindingRedirects.cache
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.Form1.resources
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.Properties.Resources.resources
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.csproj.GenerateResource.cache
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.csproj.CoreCompileInputs.cache
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.exe
+D:\Download\Google Drive\GCalc\GCalc\obj\Debug\GCalc.pdb
